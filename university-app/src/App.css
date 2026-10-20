@@ -191,7 +191,7 @@ img{
   display: inline-block;
   margin-top: 12px;
   padding: 10px 22px;
-  background-color: #945bea;
+  background-color: #4faed7;
   color: white;
   text-decoration: none;
   border-radius: 6px;
@@ -202,12 +202,12 @@ img{
 
 }
 header{
-  background-color: violet;
+  background-color: rgb(102, 159, 203);
   height: 100px;
 }
 nav{
-  background-color: rgb(132, 19, 132);
+  background-color: rgb(47, 64, 210);
 }
 footer{
-  background-color: rgb(57, 18, 68);
+  background-color: rgb(66, 35, 238);
 }
