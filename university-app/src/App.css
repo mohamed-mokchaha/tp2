@@ -191,7 +191,7 @@ img{
   display: inline-block;
   margin-top: 12px;
   padding: 10px 22px;
-  background-color: #4faed7;
+  background-color: #bf7fe6;
   color: white;
   text-decoration: none;
   border-radius: 6px;
@@ -210,4 +210,7 @@ nav{
 }
 footer{
   background-color: rgb(66, 35, 238);
+}
+#st{
+  color: blueviolet;
 }
